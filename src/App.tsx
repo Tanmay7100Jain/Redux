@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Redux toolkit</h1>
+      <h1>Redux</h1>
     </>
   );
 }
